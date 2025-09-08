@@ -1,0 +1,12 @@
+name: Smart-Pet
+version: 1.0.0
+main: com.balzikz.smartpet.SmartPet
+api-version: 1.19
+authors: ["Balzikz", "MUV"]
+description: Умные питомцы-компаньоны для вашего сервера.
+
+commands:
+  pet:
+    description: Управление вашим умным питомцем.
+    usage: "/pet <spawn|remove|talk> ..."
+    permission: smartpet.use
