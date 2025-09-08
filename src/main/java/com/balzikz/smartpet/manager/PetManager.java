@@ -1,4 +1,4 @@
-package com.yourname.smartpet.manager;
+package com.balzikz.smartpet.manager;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.*;
