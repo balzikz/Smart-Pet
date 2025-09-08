@@ -1,8 +1,8 @@
 package com.balzikz.smartpet;
 
-import com.yourname.smartpet.command.PetCommand;
-import com.yourname.smartpet.manager.PetManager;
-import com.yourname.smartpet.service.GeminiService;
+import com.balzikz.smartpet.command.PetCommand;
+import com.balzikz.smartpet.manager.PetManager;
+import com.balzikz.smartpet.service.GeminiService;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class SmartPet extends JavaPlugin {
